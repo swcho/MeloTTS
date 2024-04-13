@@ -1,0 +1,8 @@
+{
+  "terminal.integrated.env.osx": {
+    "VSCODE_WORKSPACE_FOLDER": "${workspaceFolder}"
+  },
+  "terminal.integrated.env.linux": {
+    "VSCODE_WORKSPACE_FOLDER": "${workspaceFolder}"
+  },
+}

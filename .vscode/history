@@ -1,0 +1,17 @@
+: 1712983130:0;git checkout -B ex
+echo $HISTFILE
+ls
+history
+echo $HISTFILE
+python --help
+python melo
+python melo/main.py 
+python melo/main.py  --help
+melo
+mel0 --help
+melo --help
+melo "Text to read" output.wav
+python ./melo/app.py --host "0.0.0.0" --port 8888
+melo "Text to read" output.wav
+melo "안녕하세요" output.wav --help
+melo "안녕하세요" output.wav -l KR
